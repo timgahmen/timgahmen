@@ -8,3 +8,14 @@
 timgahmen/timgahmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Repositorys:
+- pyrofork_NEW
+- pyromod_NEW
+- python-telegram_NEW
+- pyrogram_NEW
+
+
+Moved to:
+[GahmenGang Organisation](https://github.com/GahmenGang)
+
